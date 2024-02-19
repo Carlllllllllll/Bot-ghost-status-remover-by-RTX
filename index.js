@@ -23,7 +23,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching your count 🔢"];
+const statusMessages = ["Listening to /rules 📜"];
 
 
 let currentIndex = 0;
